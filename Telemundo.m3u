@@ -1,0 +1,48 @@
+
+#EXTM3U
+#EXTINF:-1,Local  |  Telemundo Chicago
+https://nbculocallive.akamaized.net/hls/live/2037097/bayarea/stream3/master.m3u8
+#EXTINF:-1,Local  |  Telemundo Chicago
+https://nbculocallive.akamaized.net/hls/live/2037085/chicago/stream4/master.m3u8
+#EXTINF:-1,Local  |  Telemundo Dallas Fort-Worth TX
+https://nbculocallive.akamaized.net/hls/live/2037095/dallas/stream1/master.m3u8
+#EXTINF:-1,Local  |  Telemundo Denver CO
+https://nbculocallive.akamaized.net/hls/live/2037092/denver/stream1/master.m3u8
+#EXTINF:-1,Local  |  Telemundo El Paso TX
+https://nbculocallive.akamaized.net/hls/live/2037500/elpaso/stream1/master.m3u8
+#EXTINF:-1,Local  |  Telemundo Fresno CA
+https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8
+#EXTINF:-1,Local  |  Telemundo Houston TX
+https://nbculocallive.akamaized.net/hls/live/2037088/houston/stream1/master.m3u8
+#EXTINF:-1,Local  |  Telemundo Chicago   Telemundo Filadelfia / [Philadelphia] 
+https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream5/master.m3u8
+#EXTINF:-1,Local  |  Telemundo ChicagoTelemundo Las Vegas NV
+https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo Chicago    Telemundo Los Angeles CA
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+#EXTINF:-1,Local  | Telemundo Chicago   Telemundo McAllen TX 
+https://nbculocallive.akamaized.net/hls/live/2037094/mcallen/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo Chicago    Telemundo Miami FL
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
+#EXTINF:-1,Local  | Telemundo Chicago   Telemundo New York
+https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Nuevo México
+https://nbculocallive.akamaized.net/hls/live/2037500/elpaso/stream2/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Orlando FL
+https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Phoenix AZ
+https://nbculocallive.akamaized.net/hls/live/2037089/phoenix/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Puerto Rico (WKAQ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Sacramento CA
+https://nbculocallive.akamaized.net/hls/live/2037604/sacramento/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Salt Lake City UT
+https://nbculocallive.akamaized.net/hls/live/2037605/saltlakecity/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo San Antonio TX
+https://nbculocallive.akamaized.net/hls/live/2037091/sanantonio/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo San Diego CA
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Tampa FL
+https://nbculocallive.akamaized.net/hls/live/2037606/tampa/stream1/master.m3u8
+#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Washington DC
+https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master.m3u8
