@@ -1,48 +1,73 @@
 
 #EXTM3U
-#EXTINF:-1,Local  |  Telemundo Chicago
-https://nbculocallive.akamaized.net/hls/live/2037097/bayarea/stream3/master.m3u8
-#EXTINF:-1,Local  |  Telemundo Chicago
-https://nbculocallive.akamaized.net/hls/live/2037085/chicago/stream4/master.m3u8
-#EXTINF:-1,Local  |  Telemundo Dallas Fort-Worth TX
-https://nbculocallive.akamaized.net/hls/live/2037095/dallas/stream1/master.m3u8
-#EXTINF:-1,Local  |  Telemundo Denver CO
-https://nbculocallive.akamaized.net/hls/live/2037092/denver/stream1/master.m3u8
-#EXTINF:-1,Local  |  Telemundo El Paso TX
-https://nbculocallive.akamaized.net/hls/live/2037500/elpaso/stream1/master.m3u8
-#EXTINF:-1,Local  |  Telemundo Fresno CA
-https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8
-#EXTINF:-1,Local  |  Telemundo Houston TX
-https://nbculocallive.akamaized.net/hls/live/2037088/houston/stream1/master.m3u8
-#EXTINF:-1,Local  |  Telemundo Chicago   Telemundo Filadelfia / [Philadelphia] 
-https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream5/master.m3u8
-#EXTINF:-1,Local  |  Telemundo ChicagoTelemundo Las Vegas NV
-https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo Chicago    Telemundo Los Angeles CA
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
-#EXTINF:-1,Local  | Telemundo Chicago   Telemundo McAllen TX 
-https://nbculocallive.akamaized.net/hls/live/2037094/mcallen/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo Chicago    Telemundo Miami FL
-https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
-#EXTINF:-1,Local  | Telemundo Chicago   Telemundo New York
-https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Nuevo México
-https://nbculocallive.akamaized.net/hls/live/2037500/elpaso/stream2/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Orlando FL
-https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Phoenix AZ
-https://nbculocallive.akamaized.net/hls/live/2037089/phoenix/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Puerto Rico (WKAQ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Sacramento CA
-https://nbculocallive.akamaized.net/hls/live/2037604/sacramento/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Salt Lake City UT
-https://nbculocallive.akamaized.net/hls/live/2037605/saltlakecity/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo San Antonio TX
-https://nbculocallive.akamaized.net/hls/live/2037091/sanantonio/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo San Diego CA
-https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Tampa FL
-https://nbculocallive.akamaized.net/hls/live/2037606/tampa/stream1/master.m3u8
-#EXTINF:-1,Local  | Telemundo ChicagoTelemundo Washington DC
-https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO INTERNACIONAL FHD*"  group-title="TELEMUNDO",LAT| TELEMUNDO INTERNACIONAL FHD*
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69744.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO MCALLEN TX"  group-title="TELEMUNDO",LAT| TELEMUNDO MCALLEN TX
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69745.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO WASHINGTON HD"  group-title="TELEMUNDO",LAT| TELEMUNDO WASHINGTON HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69746.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO COLORADO HD"  group-title="TELEMUNDO",LAT| TELEMUNDO COLORADO HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69747.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO DENVER HD"  group-title="TELEMUNDO",LAT| TELEMUNDO DENVER HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69748.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO NEW ORLEANS HD"  group-title="TELEMUNDO",LAT| TELEMUNDO NEW ORLEANS HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69749.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO NEBRASKA HD"  group-title="TELEMUNDO",LAT| TELEMUNDO NEBRASKA HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69750.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO SAN FRANCISCO HD"  group-title="TELEMUNDO",LAT| TELEMUNDO SAN FRANCISCO HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69751.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO OKLAHOMA HD"  group-title="TELEMUNDO",LAT| TELEMUNDO OKLAHOMA HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69752.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO 39 TX HD"  group-title="TELEMUNDO",LAT| TELEMUNDO 39 TX HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69753.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO 52 LOS ANGELES HD"  group-title="TELEMUNDO",LAT| TELEMUNDO 52 LOS ANGELES HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69754.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO  BOSTON HD"  group-title="TELEMUNDO",LAT| TELEMUNDO  BOSTON HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69755.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO CENTRAL HD"  group-title="TELEMUNDO",LAT| TELEMUNDO CENTRAL HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69756.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO CONNECTICUT"  group-title="TELEMUNDO",LAT| TELEMUNDO CONNECTICUT
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69757.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO LAS VEGAS HD"  group-title="TELEMUNDO",LAT| TELEMUNDO LAS VEGAS HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69758.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO PHOENIX ARIZONA HD"  group-title="TELEMUNDO",LAT| TELEMUNDO PHOENIX ARIZONA HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69759.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO SACRAMENTO CALIFORNIA HD"  group-title="TELEMUNDO",LAT| TELEMUNDO SACRAMENTO CALIFORNIA HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69760.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO SALK LAKE CITY HD"  group-title="TELEMUNDO",LAT| TELEMUNDO SALK LAKE CITY HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69761.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO GALVESTON HD"  group-title="TELEMUNDO",LAT| TELEMUNDO GALVESTON HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69762.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO LUBBOCK TX HD"  group-title="TELEMUNDO",LAT| TELEMUNDO LUBBOCK TX HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69763.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO SAN ANTONIO TX HD"  group-title="TELEMUNDO",LAT| TELEMUNDO SAN ANTONIO TX HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69764.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO 47 NEW YORK HD"  group-title="TELEMUNDO",LAT| TELEMUNDO 47 NEW YORK HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69765.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO 51 MIAMI HD"  group-title="TELEMUNDO",LAT| TELEMUNDO 51 MIAMI HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69766.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO NEW ORLAND"  group-title="TELEMUNDO",LAT| TELEMUNDO NEW ORLAND
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69768.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO CHICAGO HD"  group-title="TELEMUNDO",LAT| TELEMUNDO CHICAGO HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO ATLANTA HD"  group-title="TELEMUNDO",LAT| TELEMUNDO ATLANTA HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69770.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LAT| TELEMUNDO TAMPA HD"  group-title="TELEMUNDO",LAT| TELEMUNDO TAMPA HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/69772.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO PR"  group-title="TELEMUNDO",TELEMUNDO PR
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/708.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO PR."  group-title="PUERTO RICO",TELEMUNDO PR.
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/709.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO 39 DALLAS (ESP"  group-title="TELEMUNDO",TELEMUNDO 39 DALLAS (ESP
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/146082.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telemundo San Francisco HD"  group-title="TELEMUNDO",Telemundo San Francisco HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/146083.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Telemundo 48 HD"  group-title="TELEMUNDO",USA | Telemundo 48 HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/146088.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Telemundo Orlando HD"  group-title="TELEMUNDO",USA | Telemundo Orlando HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/146096.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Telemundo Texas HD"  group-title="TELEMUNDO",USA | Telemundo Texas HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/146098.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA | Telemundo Fresnoⓧ HD"  group-title="TELEMUNDO",USA | Telemundo Fresnoⓧ HD
+http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/146099.ts
+
